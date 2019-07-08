@@ -1,1 +1,1 @@
-0;https://github.com/AppIndev/SDN/raw/master/SanDatNha.apk;0;//v,f,h;
+2;https://github.com/AppIndev/SDN/raw/master/SDN.apk;1;//v,f,h;
